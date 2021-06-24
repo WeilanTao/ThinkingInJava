@@ -1,0 +1,11 @@
+
+J
+java:S1604"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ8ºŸÈò£/
+K
+java:S1121".Extract the assignment out of this expression.(¾©ºó8‹ëò£/
+U
+java:S1197"8Move the array designator from the variable to the type.(‘–µ¥8ééèò£/
+]	java:S110)"<This class has 6 parents which is greater than 5 authorized.(ó·åÿüÿÿÿÿ8úµÙò£/
+J
+java:S1604"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ8ä·ïò£/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô‚‚Ğıÿÿÿÿ8Õ¨°ó£/

@@ -1,5 +1,6 @@
+package Chapter12_GUI;
+
 import javax.swing.*;
-import java.awt.*;
 
 public class SubmitSwingProgram extends JFrame {
     static SubmitSwingProgram ssp;
