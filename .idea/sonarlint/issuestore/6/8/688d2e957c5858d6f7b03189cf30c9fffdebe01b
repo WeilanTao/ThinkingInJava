@@ -1,0 +1,11 @@
+
+E
+java:S1604"(Make this anonymous inner class a lambda(õÂºÖ8ª‚şù£/
+]	java:S110"<This class has 6 parents which is greater than 5 authorized.(àÿÓòıÿÿÿÿ8ªÛÕù£/
+E
+java:S1604#"(Make this anonymous inner class a lambda(­üà¿8ì …ú£/
+E
+java:S1659"#Declare "clear" on a separate line.(ùÑèıÿÿÿÿ8üˆûù£/
+—
+java:S1598"zThis file "TextAreaEx6.java" should be located in "Chapter22_GUI" directory, not in "E:\ThinkingInJava\src\Chapter12_GUI".(°ãíí8ëİÎ¤/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ãíí
