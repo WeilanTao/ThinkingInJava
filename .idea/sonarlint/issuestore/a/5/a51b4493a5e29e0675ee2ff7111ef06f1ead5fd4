@@ -1,0 +1,13 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í™ıq
+b
+java:S2184"@Cast one of the operands of this integer division to a "double".(ıŒ›µùÿÿÿÿ8ñÄå¤/
+X	java:S1104"<This class has 6 parents which is greater than 5 authorized.(õè„·8ñÄå¤/
+D
+java:S1604:"(Make this anonymous inner class a lambda(¯ñ¹?8ñÄå¤/
+w
+java:S1450"URemove the "cycles" field and declare it as a local variable in the relevant methods.(½¯šüÿÿÿÿ8ñÄå¤/
+t
+java:S1450"RRemove the "pts" field and declare it as a local variable in the relevant methods.(¬Ï”ƒıÿÿÿÿ8ñÄå¤/
+W
+java:S1161":Add the "@Override" annotation above this method signature(³ıŸê8ñÄå¤/

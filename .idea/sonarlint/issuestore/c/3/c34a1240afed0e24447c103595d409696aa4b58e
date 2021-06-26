@@ -1,0 +1,19 @@
+
+@
+java:S1948+"$Make "ml" transient or serializable.(Š¶ÏW8ÒâÅ“¤/
+{
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(±¦÷ìşÿÿÿÿ8ÒâÅ“¤/
+B
+java:S1659" Declare "b2" on a separate line.(Ş¤å¶ıÿÿÿÿ8ÒâÅ“¤/
+b
+java:S3252R"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(ÂÓ‰Õÿÿÿÿÿ8ÒâÅ“¤/
+]	java:S110"<This class has 6 parents which is greater than 5 authorized.(õ õšıÿÿÿÿ8ÒâÅ“¤/
+A
+java:S1948 "$Make "kl" transient or serializable.(×£ÿ8ÒâÅ“¤/
+]	java:S110"<This class has 6 parents which is greater than 5 authorized.(ŸìéŸıÿÿÿÿ8ÑâÅ“¤/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ãíí
+F
+java:S1948"$Make "fl" transient or serializable.(áÏÜúÿÿÿÿ8ÒâÅ“¤/
+G
+java:S1948<"%Make "mml" transient or serializable.(ğ÷èêşÿÿÿÿ8ÒâÅ“¤/

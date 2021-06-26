@@ -1,0 +1,22 @@
+
+J
+java:S1604+"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ8ƒåˆÍ¢/
+X	java:S110"<This class has 6 parents which is greater than 5 authorized.(¾¨ÿÒ8ğÎÅÌ¢/
+{
+java:S1192."YDefine a constant instead of duplicating this literal "Hi there. It's different" 3 times.(²’èÚşÿÿÿÿ8ÆœœÏ¢/
+h
+java:S2142*"FEither re-interrupt this method or rethrow the "InterruptedException".(–½·Õÿÿÿÿÿ8Ô€¤Ğ¢/
+h
+java:S2142>"FEither re-interrupt this method or rethrow the "InterruptedException".(øôÔ×ûÿÿÿÿ8–™Ï¢/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ãíí8£«°ó£/
+h
+java:S21423"FEither re-interrupt this method or rethrow the "InterruptedException".(øôÔ×ûÿÿÿÿ8Ô€¤Ğ¢/
+J
+java:S1604!"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ8¦¤ŠÌ¢/
+J
+java:S16045"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ8ãª–Ï¢/
+J
+java:S1604@"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ8¾ÂšÏ¢/
+J	java:S108*")Either remove or fill this block of code.(–½·Õÿÿÿÿÿ8Ô€¤Ğ¢/
+J	java:S1083")Either remove or fill this block of code.(øôÔ×ûÿÿÿÿ8Ô€¤Ğ¢/
+J	java:S108>")Either remove or fill this block of code.(øôÔ×ûÿÿÿÿ8–™Ï¢/

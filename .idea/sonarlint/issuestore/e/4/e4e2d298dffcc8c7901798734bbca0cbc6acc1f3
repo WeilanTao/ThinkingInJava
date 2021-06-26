@@ -1,0 +1,13 @@
+
+E
+java:S1604 "(Make this anonymous inner class a lambda(òñ›¿8¬òÆ¤/
+V
+java:S1874$"9Remove this use of "getSelectedValues"; it is deprecated.(Õ‡8¬òÆ¤/
+E
+java:S1604"(Make this anonymous inner class a lambda(”“èñ8¬òÆ¤/
+A
+java:S1948"$Make "bl" transient or serializable.(”“èñ8¬òÆ¤/
+A
+java:S1948"$Make "ll" transient or serializable.(È×Öş8¬òÆ¤/
+X	java:S110	"<This class has 6 parents which is greater than 5 authorized.(ä¸Áò8¬òÆ¤/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í™ıq

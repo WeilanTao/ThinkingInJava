@@ -1,17 +1,17 @@
 
+]
+java:S1161À":Add the "@Override" annotation above this method signature(¶µıöøÿÿÿÿ8š¢ö£/
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¢™ˆ¶8ãô¥ö£/
 :
 java:S2386"Make this member "protected".(ò±£¦8š¢ö£/
 ]
-java:S1161À":Add the "@Override" annotation above this method signature(¶µıöøÿÿÿÿ8š¢ö£/
-I
-java:S2160–"+Override the "equals" method in this class.(ÿó™Í8š¢ö£/
-w
-java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¸Ş­8š¢ö£/
-W
-java:S1118":Add a private constructor to hide the implicit public one.(¢™ˆ¶8ãô¥ö£/
-]
 java:S1161®":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ8š¢ö£/
-|
-java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(µøıñÿÿÿÿÿ8š¢ö£/
 q
 java:S2272ª"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(¢£áıÿÿÿÿ8š¢ö£/
+w
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¸Ş­8š¢ö£/
+I
+java:S2160–"+Override the "equals" method in this class.(ÿó™Í8š¢ö£/
+|
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(µøıñÿÿÿÿÿ8š¢ö£/
